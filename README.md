@@ -1,4 +1,4 @@
-<h1><span>Deep fish eDNA</span></h1>
+<h1><span>Deep fish eDNA project</span></h1>
 <div class="subtext" id="main">
 <p>This is the repository where the data and scripts associated to the paper "Vertical stratification of environmental DNA in the open ocean captures ecological patterns and behavior of deep-sea fishes" by Oriol Canalsl, Iñaki Mendibil, María Santos, Xabier Irigoien, Naiara Rodríguez-Ezpeleta is located</p>
 </div>
