@@ -3,9 +3,9 @@
 <p>This is the repository where the data and scripts associated to the paper "Vertical stratification of environmental DNA in the open ocean captures ecological patterns and behavior of deep-sea fishes" by Oriol Canalsl, Iñaki Mendibil, María Santos, Xabier Irigoien, Naiara Rodríguez-Ezpeleta is located</p>
 </div>
 <h2>
-<div class="hex"></div><span>Metadata</span></h2>
+<div class="hex"></div><span>Data</span></h2>
 <div class="subtext coll">
-Metadata associated to the samples used in this study.
+Metadata associated to the samples used in this study and resulting OTU tables. 
 Vertical profile samples from eight stations along the continental slope of the Bay of Biscay (Figure 1; Supplementary Table S1) were collected in Spring 2018 on board the Ramón Margalef research vessel at 5, 50, 200, 500 and 1,000m depth and at 50 m above the seafloor (thereafter > 1,000 m) using a rosette sampler and, from five of the stations, also at 4.4 m depth using the continuous clean circuit intake of the ship. On board, 2-5 liters of 50 μm pore-sized mesh prefiltered water samples were immediately filtered through Sterivex 0.45 μm pore size enclosed filters (Millipore) using a peristaltic pump and kept at -20 °C until further processing. In total, 52 samples from 8 vertical profiles (13 from the surface and 8 from each 50, 200, 500, 1,000 and >1,000 m depth) were collected.
 </div>
 <h2>
